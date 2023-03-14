@@ -3,5 +3,5 @@
 State Management - GetX</br>
 
 <p float="left">
-  <img src="https://i.ibb.co/kQmZ5rz/video1.gif" alt="video1" /></a>
+  <img src="https://i.ibb.co/qkJ674h/video1.gif" alt="video1" /></a>
 </p>
