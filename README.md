@@ -1,16 +1,7 @@
-# batu_gunting_kertas
+# Batu Gunting Kertas -  Game Batu Gunting Kertas (Mobile App) Using Flutter
 
-A new Flutter project.
+State Management - GetX</br>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <img src="https://i.ibb.co/kQmZ5rz/video1.gif" alt="video1" border="0" /></a>
+</p>
